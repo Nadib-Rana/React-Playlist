@@ -85,4 +85,4 @@ Content list for a 15-part React.js tutorial series:
     - Environment variables
     - Best practices for production
 
-This should give you a comprehensive curriculum for learning React.js, covering everything from the basics to more advanced topics. Enjoy your journey into React! 🚀
+
