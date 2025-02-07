@@ -68,4 +68,3 @@ student1.introduce();  // Output: I am a student of Computer Science.
 - অবজেক্টের পদ্ধতি (methods) এবং বৈশিষ্ট্য (properties) একসাথে রাখা যায়।
 
 ---
-
