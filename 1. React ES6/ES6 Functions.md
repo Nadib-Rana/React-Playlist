@@ -4,8 +4,8 @@ Here’s a note on ES6 Functions in Bengali:
 
 ### **ES6 ফাংশন (Functions)**
 ES6-এর দুটি গুরুত্বপূর্ণ ফাংশন ফিচার হল 
---**Arrow Functions** এবং 
---**Default Parameters**।
+-- **Arrow Functions** এবং 
+-- **Default Parameters**।
 #### **1. Arrow Functions (এ্যারো ফাংশন):**
 এ্যারো ফাংশন একটি সংক্ষিপ্ত পদ্ধতিতে ফাংশন লেখার পদ্ধতি। এর সাহায্যে `function` কীওয়ার্ডের পরিবর্তে `=>` সিম্বল ব্যবহার করা হয়।
 
@@ -23,14 +23,14 @@ const sum = (a, b) => a + b;
 
 - এ্যারো ফাংশনে `return` কিওয়ার্ডও সহজভাবে লেখা যায় যদি ফাংশন এক লাইনেই রিটার্ন করে।
 
-**একটি উদাহরণ:**
+**উদাহরণ:**
 ```javascript
 const greet = name => `Hello, ${name}!`;
 console.log(greet("Nadib")); // Output: Hello, Nadib!
 ```
 
-#### **2. Default Parameters (ডিফল্ট প্যারামিটার):**
-ES6-এ ফাংশনের প্যারামিটারগুলোর জন্য ডিফল্ট মান সেট করা সম্ভব। যদি কোন প্যারামিটার প্রদান না করা হয়, তবে ডিফল্ট মানটি ব্যবহার হবে।
+#### **2. Default Parameter :**
+ES6-এ ফাংশনের প্যারামিটারগুলোর জন্য Default মান সেট করা সম্ভব। যদি কোন  Parameter প্রদান না করা হয়, তবে Default মানটি ব্যবহার হবে।
 
 **উদাহরণ:**
 ```javascript
