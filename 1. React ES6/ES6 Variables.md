@@ -4,7 +4,7 @@ Here’s a simplified note on **Variables in ReactJS** in Bengali:
 
 ### **ReactJS-এ ভেরিয়েবলস (Variables in ReactJS)**
 
-ReactJS-এ ভেরিয়েবলগুলি ব্যবহার করা হয় ডাটা সংরক্ষণ করতে এবং UI এর মধ্যে তা পরিবর্তন করতে। সাধারণত **JavaScript** এর মত React-এও ভেরিয়েবল তৈরি করা হয়।
+ **JavaScript** এর মত React-এও ভেরিয়েবল তৈরি করা হয়।
 
 #### **1. let, const, var:**
 ReactJS-এ ভেরিয়েবল ডিক্লেয়ার করার জন্য তিনটি কিওয়ার্ড আছে:
