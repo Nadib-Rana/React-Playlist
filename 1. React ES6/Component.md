@@ -10,7 +10,7 @@ React-এর প্রধান দুটি কম্পোনেন্ট হ�
 🔹 **উদাহরণ:**  
 ```jsx
 function Greeting(props) {
-  return <h1>হ্যালো, {props.name}!</h1>;
+  return <h1>Hello, {props.name}!</h1>;
 }
 ```
 
@@ -36,8 +36,8 @@ class Counter extends React.Component {
   render() {
     return (
       <div>
-        <h1>গণনা: {this.state.count}</h1>
-        <button onClick={this.increment}>বৃদ্ধি করুন</button>
+        <h1>Count: {this.state.count}</h1>
+        <button onClick={this.increment}>Increase</button>
       </div>
     );
   }
